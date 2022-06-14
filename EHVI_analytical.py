@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri May 21 13:18:05 2021
-
-@author: tc489
+@author: Tinkle Chugh
 """
 
 import numpy as np
